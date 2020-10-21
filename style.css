@@ -1,0 +1,22 @@
+#parent{
+display: inline-block;
+flex-wrap: wrap-reverse;
+background-color: black;
+position: relative;
+
+}
+.box{
+width: 100px;
+height: 100px;
+background-color: blueviolet;
+margin: 5px;
+float: left;
+}
+.line{
+  position: relative;
+width: 95%;
+height: 5px;
+background-color: darkred;
+top: 107px;
+left: 5px;
+}
